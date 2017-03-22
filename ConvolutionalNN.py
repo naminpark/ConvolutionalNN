@@ -1,3 +1,5 @@
+# reviser: Park, Nam In
+
 from __future__ import print_function
 
 import tensorflow as tf
